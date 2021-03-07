@@ -1,4 +1,4 @@
-
+X=input()
 def factorial(X):
     if X==1:
         return 1
